@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "United HOAs Limited", "address": "123 Main Street" },
+  { "id": 2, "name": "HOAs R us", "address": "123 Second Ave" },
+  { "id": 3, "name": "Best HOA", "address": "999 Easy Street" },
+  { "id": 4, "name": "Star HOA", "address": "1 King St" },
+  { "id": 5, "name": "iHOA", "address": "4 Third Ave" }
+]
