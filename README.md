@@ -196,5 +196,4 @@ Response:
 
 ## Step to set-up and run:
 
-1. Extract this zip file in the directory.
-2. Type the command for running the project in terminal or cmd. "sh startup.sh"
+1. Type the command for running the project in terminal or cmd. "sh startup.sh"
